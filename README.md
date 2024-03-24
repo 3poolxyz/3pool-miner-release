@@ -1,8 +1,11 @@
 # 3pool miner for 3dpass
 Only supports nvidia graphics cards.
 
-# How to use
+# How To Use
 `./3dp --user d1<YOUR_WALLET>`
+
+# HiveOS Guide
+https://github.com/xchainw/3dp-hive
 
 # Options
 | Parameter | Description |
